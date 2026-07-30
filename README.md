@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rj27122005/Leetcode/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rj27122005/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1534-count-good-triplets](https://github.com/rj27122005/Leetcode/tree/master/1534-count-good-triplets) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/rj27122005/Leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rj27122005/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3838-weighted-word-mapping](https://github.com/rj27122005/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/rj27122005/Leetcode/tree/master/3895-count-digit-appearances) |
