@@ -37,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rj27122005/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rj27122005/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3794-reverse-string-prefix](https://github.com/rj27122005/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rj27122005/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rj27122005/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3019-number-of-changing-keys](https://github.com/rj27122005/Leetcode/tree/master/3019-number-of-changing-keys) |
 | [3794-reverse-string-prefix](https://github.com/rj27122005/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rj27122005/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/rj27122005/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rj27122005/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/rj27122005/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Enumeration
 |  |
