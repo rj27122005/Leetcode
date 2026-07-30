@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rj27122005/Leetcode/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rj27122005/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rj27122005/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3838-weighted-word-mapping](https://github.com/rj27122005/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/rj27122005/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Math
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rj27122005/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3019-number-of-changing-keys](https://github.com/rj27122005/Leetcode/tree/master/3019-number-of-changing-keys) |
 | [3794-reverse-string-prefix](https://github.com/rj27122005/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3838-weighted-word-mapping](https://github.com/rj27122005/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rj27122005/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/rj27122005/Leetcode/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
