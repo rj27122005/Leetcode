@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rj27122005/Leetcode/tree/master/0015-3sum) |
+| [0704-binary-search](https://github.com/rj27122005/Leetcode/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rj27122005/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rj27122005/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3895-count-digit-appearances](https://github.com/rj27122005/Leetcode/tree/master/3895-count-digit-appearances) |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3019-number-of-changing-keys](https://github.com/rj27122005/Leetcode/tree/master/3019-number-of-changing-keys) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/rj27122005/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
