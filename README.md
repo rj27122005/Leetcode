@@ -33,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/rj27122005/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rj27122005/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3794-reverse-string-prefix](https://github.com/rj27122005/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rj27122005/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3019-number-of-changing-keys](https://github.com/rj27122005/Leetcode/tree/master/3019-number-of-changing-keys) |
+| [3794-reverse-string-prefix](https://github.com/rj27122005/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
