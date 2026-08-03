@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/rj27122005/Leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/rj27122005/Leetcode/tree/master/0704-binary-search) |
 ## String Matching
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/rj27122005/Leetcode/tree/master/0518-coin-change-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/rj27122005/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
