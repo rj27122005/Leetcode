@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rj27122005/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1534-count-good-triplets](https://github.com/rj27122005/Leetcode/tree/master/1534-count-good-triplets) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/rj27122005/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/rj27122005/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/rj27122005/Leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/rj27122005/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rj27122005/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rj27122005/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/rj27122005/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/rj27122005/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/rj27122005/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3794-reverse-string-prefix](https://github.com/rj27122005/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rj27122005/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rj27122005/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
