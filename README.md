@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/rj27122005/Leetcode/tree/master/1534-count-good-triplets) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/rj27122005/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/rj27122005/Leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/rj27122005/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rj27122005/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3838-weighted-word-mapping](https://github.com/rj27122005/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/rj27122005/Leetcode/tree/master/3895-count-digit-appearances) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/rj27122005/Leetcode/tree/master/0278-first-bad-version) |
 | [0658-find-k-closest-elements](https://github.com/rj27122005/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/rj27122005/Leetcode/tree/master/0704-binary-search) |
+| [3477-fruits-into-baskets-ii](https://github.com/rj27122005/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/rj27122005/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rj27122005/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/rj27122005/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Enumeration
@@ -84,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/rj27122005/Leetcode/tree/master/0658-find-k-closest-elements) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/rj27122005/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/rj27122005/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
