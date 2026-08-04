@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rj27122005/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3838-weighted-word-mapping](https://github.com/rj27122005/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/rj27122005/Leetcode/tree/master/3895-count-digit-appearances) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/rj27122005/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/rj27122005/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rj27122005/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rj27122005/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/rj27122005/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String
 |  |
 | ------- |
