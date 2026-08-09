@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rj27122005/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rj27122005/Leetcode/tree/master/0015-3sum) |
 | [0518-coin-change-ii](https://github.com/rj27122005/Leetcode/tree/master/0518-coin-change-ii) |
 | [0658-find-k-closest-elements](https://github.com/rj27122005/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rj27122005/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rj27122005/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rj27122005/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/rj27122005/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3866-first-unique-even-element](https://github.com/rj27122005/Leetcode/tree/master/3866-first-unique-even-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rj27122005/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
