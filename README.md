@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rj27122005/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1534-count-good-triplets](https://github.com/rj27122005/Leetcode/tree/master/1534-count-good-triplets) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/rj27122005/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2239-find-closest-number-to-zero](https://github.com/rj27122005/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/rj27122005/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/rj27122005/Leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/rj27122005/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
