@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/rj27122005/Leetcode/tree/master/1534-count-good-triplets) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/rj27122005/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/rj27122005/Leetcode/tree/master/2239-find-closest-number-to-zero) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rj27122005/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/rj27122005/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/rj27122005/Leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/rj27122005/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/rj27122005/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/rj27122005/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rj27122005/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rj27122005/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/rj27122005/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/rj27122005/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/rj27122005/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rj27122005/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/rj27122005/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3794-reverse-string-prefix](https://github.com/rj27122005/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rj27122005/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rj27122005/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3866-first-unique-even-element](https://github.com/rj27122005/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Counting
 |  |
