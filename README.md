@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rj27122005/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rj27122005/Leetcode/tree/master/0015-3sum) |
+| [0204-count-primes](https://github.com/rj27122005/Leetcode/tree/master/0204-count-primes) |
 | [0518-coin-change-ii](https://github.com/rj27122005/Leetcode/tree/master/0518-coin-change-ii) |
 | [0658-find-k-closest-elements](https://github.com/rj27122005/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/rj27122005/Leetcode/tree/master/0704-binary-search) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rj27122005/Leetcode/tree/master/0204-count-primes) |
 | [0728-self-dividing-numbers](https://github.com/rj27122005/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rj27122005/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rj27122005/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rj27122005/Leetcode/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/rj27122005/Leetcode/tree/master/1534-count-good-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rj27122005/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -139,4 +142,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/rj27122005/Leetcode/tree/master/0881-boats-to-save-people) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rj27122005/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rj27122005/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rj27122005/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rj27122005/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
