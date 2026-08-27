@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rj27122005/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rj27122005/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0204-count-primes](https://github.com/rj27122005/Leetcode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/rj27122005/Leetcode/tree/master/0217-contains-duplicate) |
 | [0518-coin-change-ii](https://github.com/rj27122005/Leetcode/tree/master/0518-coin-change-ii) |
 | [0658-find-k-closest-elements](https://github.com/rj27122005/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/rj27122005/Leetcode/tree/master/0704-binary-search) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/rj27122005/Leetcode/tree/master/0015-3sum) |
 | [0147-insertion-sort-list](https://github.com/rj27122005/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0217-contains-duplicate](https://github.com/rj27122005/Leetcode/tree/master/0217-contains-duplicate) |
 | [0658-find-k-closest-elements](https://github.com/rj27122005/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/rj27122005/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rj27122005/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rj27122005/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rj27122005/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/rj27122005/Leetcode/tree/master/0217-contains-duplicate) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rj27122005/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3866-first-unique-even-element](https://github.com/rj27122005/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Counting
