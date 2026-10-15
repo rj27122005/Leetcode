@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rj27122005/Leetcode/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/rj27122005/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rj27122005/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1402-reducing-dishes](https://github.com/rj27122005/Leetcode/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rj27122005/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1534-count-good-triplets](https://github.com/rj27122005/Leetcode/tree/master/1534-count-good-triplets) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/rj27122005/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/rj27122005/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/rj27122005/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rj27122005/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1402-reducing-dishes](https://github.com/rj27122005/Leetcode/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rj27122005/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rj27122005/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Heap (Priority Queue)
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/rj27122005/Leetcode/tree/master/0518-coin-change-ii) |
+| [1402-reducing-dishes](https://github.com/rj27122005/Leetcode/tree/master/1402-reducing-dishes) |
 ## Interactive
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rj27122005/Leetcode/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/rj27122005/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1402-reducing-dishes](https://github.com/rj27122005/Leetcode/tree/master/1402-reducing-dishes) |
 ## Timsort
 |  |
 | ------- |
